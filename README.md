@@ -1,10 +1,10 @@
-Hi, I'm Abhinav.
+## Hi, I'm Abhinav 👋
 
-I build modern MERN applications with a focus on speed, clean UI, and good engineering.  
+I build modern MERN applications with a focus on speed, clean UI, and solid engineering.  
 I enjoy turning ideas into polished, functional interfaces and exploring better frontend and backend patterns.
 
-My daily tools include React, Node.js, Express, MongoDB, TypeScript, Tailwind, and Vite.  
-Currently learning more about scalable backend systems and real-time features.
+My daily tools include **React**, **Node.js**, **Express**, **MongoDB**, **TypeScript**, **Tailwind**, and **Vite**.  
+Currently learning more about **scalable backend systems** and **real-time features**.
 
 ---
 
@@ -14,8 +14,10 @@ waiting for a future version of me to refactor them.
 Some of my apps are clean, some experimental,  
 and a few were built at 2am and will never see daylight again.
 
-Fun Facts:
-- I pick up my guitar whenever code stops making sense.
-- I build random things just to see if they *can* exist.
-- I sometimes rewrite components that already work… because they could “look cleaner.”
-- Hobbies: building stuff, guitar, and exploring new tech rabbit holes.
+---
+
+### Fun Facts
+- I pick up my guitar whenever code stops making sense.  
+- I build random things just to see if they *can* exist.  
+- I sometimes rewrite components that already work… because they could “look cleaner.”  
+- **Hobbies:** building stuff, guitar, exploring new tech rabbit holes.  
