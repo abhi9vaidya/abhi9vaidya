@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhinav Vaidya :)</h1>
-<h3 align="center">I’m a **MERN stack developer** who loves creating smooth, fast, and thoughtful digital experiences.</h3>
+<h3 align="center">I’m a MERN stack developer who loves creating smooth, fast, and thoughtful digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi9vaidya&label=Profile%20views&color=0e75b6&style=flat" alt="abhi9vaidya" /> </p>
 
