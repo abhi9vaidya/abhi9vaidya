@@ -27,23 +27,17 @@ and a few were built at 2am and will never see daylight again.
 ### 📊 GitHub at a glance
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9vaidya&theme=tokyonight" width="100%" />
-</p>
-
-<br/>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true" width="100%" />
-</p>
-
-<br/>
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi9vaidya&theme=tokyonight" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9vaidya&theme=tokyonight"
+    width="100%"
+  />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi9vaidya&theme=tokyonight" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true"
+    width="100%"
+  />
 </p>
 
 
