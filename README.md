@@ -28,8 +28,8 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abhi9vaidya&show_icons=true&theme=tokyonight" alt="Abhinav's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9vaidya&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhi9vaidya&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9vaidya&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
@@ -44,10 +44,10 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/abhi9vaidya15" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:abhinavvaidya2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
