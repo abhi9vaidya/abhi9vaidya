@@ -21,3 +21,19 @@ and a few were built at 2am and will never see daylight again.
 - I build random things just to see if they *can* exist.  
 - I sometimes rewrite components that already work… because they could “look cleaner.”  
 - **Hobbies:** building stuff, guitar, exploring new tech rabbit holes.  
+
+---
+
+### 📊 GitHub at a glance
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9vaidya&theme=tokyonight" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true" width="100%" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9vaidya&layout=compact&theme=tokyonight" />
+</p>
