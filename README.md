@@ -27,12 +27,24 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
 ---
 
 ### 📊 GitHub Dynamic Activity
+
 <p align="left">
-  <!-- Real-time Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9vaidya&theme=tokyonight" alt="GitHub Streak" height="170" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9vaidya&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
   
-  <!-- Dynamic Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night" alt="Activity Graph" height="170" />
+  <!-- General Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=abhi9vaidya&show_icons=true&theme=tokyonight&count_private=true" alt="Abhinav's Stats" height="165" />
+</p>
+
+<p align="left">
+  <!-- Contribution Streak (Using a more stable mirror) -->
+  <img src="https://streak-stats.demolab.com/?user=abhi9vaidya&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true" alt="Activity Graph" width="100%" />
+</p>
 
 ---
 
