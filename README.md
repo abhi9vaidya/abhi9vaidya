@@ -1,63 +1,58 @@
-# Hi, I'm Abhinav 👋
+# Hi — I'm Abhinav 👋  
 
-I build fast, modern MERN applications with clean UI and reliable engineering.  
-I enjoy turning ideas into production-ready experiences and exploring better frontend and backend patterns.
+I build modern, fast, and reliable apps across **web, backend, and mobile**.  
+Right now I’m focused on writing cleaner code, better architecture, and shipping things that actually get used.
 
 ---
 
-### 🛠️ Tech I Work With
-<p align="left">
+### 🔍 What I'm currently focused on
+- Designing scalable backend APIs
+- Real-time features (WebSockets, sockets, streaming)
+- Writing maintainable, readable code
+- Understanding performance and UX trade-offs
+
+---
+
+### 🛠️ Tech & Tools I use often
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </p>
 
-**Currently learning:** scalable backend systems, real-time features (WebSockets), and performance tuning.
+> I care more about **architecture, clarity, and learning** than chasing frameworks.
 
 ---
 
-### 🚀 What I Build
-I like solving practical problems and iterating until things feel polished.
+### 📈 A little activity snapshot
 
-- 🔐 Auth-driven apps with sessions, JWT, and secure flows  
-- 💬 Real-time chat and collaborative features  
-- 📦 REST APIs with clean architecture and modular design  
-- ⚡ Fast UI with reusable components and optimized bundles  
-
-Some repos are public, some are experiments, and some are waiting for refactors before they return to daylight.
-
----
-
-### 📊 Activity & Insights
-
-<p align="left">
+<p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9vaidya&theme=tokyonight" width="100%" />
 </p>
 
-<p align="left">
-  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base=0&languages=1&languages.limit=8&theme=tokyonight" width="100%" />
-</p>
-
-<p align="left">
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true" width="100%" />
 </p>
 
 ---
 
-### ⚡ Outside of Code
-- I pick up the guitar when problems stop making sense.  
-- I build random tools just to see whether they *should* exist.  
-- I refactor working code… because clean code matters.
+### ⚡ A few things about me
+- I like building things just to see if they **should** exist  
+- I refactor working code because clean code matters  
+- Guitar is my debugging therapy  
+- Always trying to move 1% forward every week
 
 ---
 
-### 📫 Connect
-<p align="left">
-  <a href="https://linkedin.com/in/abhi9vaidya15" target="_blank">
+### 📫 Reach out
+<p>
+  <a href="https://linkedin.com/in/abhi9vaidya15">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abhinavvaidya2005@gmail.com">
@@ -65,4 +60,4 @@ Some repos are public, some are experiments, and some are waiting for refactors 
   </a>
 </p>
 
-_Open to interesting projects, collaborations._
+_Open to discussions, ideas, and interesting problems._
