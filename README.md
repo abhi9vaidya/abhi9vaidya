@@ -29,21 +29,19 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
 ### 📊 GitHub Dynamic Activity
 
 <p align="left">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9vaidya&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-  
-  <!-- General Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi9vaidya&show_icons=true&theme=tokyonight&count_private=true" alt="Abhinav's Stats" height="165" />
+  <!-- Metrics: This combines your stats, languages, and activity into one stable dynamic image -->
+  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.colors=github&languages.limit=8&theme=tokyonight" alt="Metrics" width="100%" />
 </p>
 
 <p align="left">
-  <!-- Contribution Streak (Using a more stable mirror) -->
-  <img src="https://streak-stats.demolab.com/?user=abhi9vaidya&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <!-- Activity Graph -->
+  <!-- Activity Graph: This one is already working for you, so we keep it -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true" alt="Activity Graph" width="100%" />
+</p>
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <!-- Dynamic Trophies based on your actual GitHub achievements -->
+  <img src="https://github-profile-trophy.vercel.app/?username=abhi9vaidya&theme=tokyonight&column=4" alt="Trophies" />
 </p>
 
 ---
