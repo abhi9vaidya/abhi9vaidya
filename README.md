@@ -28,18 +28,15 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
 
 ### 📊 GitHub Dynamic Activity
 
+### 📊 GitHub Dynamic Activity
+
 <p align="left">
-  <!-- Metrics: This is the "Most Used Languages" part that is working for you -->
-  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&languages=1&languages.colors=github&languages.limit=8&theme=tokyonight" alt="Metrics" width="100%" />
+  <!-- Metrics: This combines your Stats + Languages into one reliable image -->
+  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base=header,repositories,metadata&languages=1&languages.limit=8&theme=tokyonight" alt="Metrics" width="100%" />
 </p>
 
 <p align="left">
-  <!-- Dynamic Streak: Shows your current and longest contribution streaks -->
-  <img src="https://streak-stats.demolab.com/?user=abhi9vaidya&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <!-- Activity Graph: This is the line graph that is working for you -->
+  <!-- Activity Graph: This is working perfectly for you -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true" alt="Activity Graph" width="100%" />
 </p>
 
