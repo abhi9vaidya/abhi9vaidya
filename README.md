@@ -26,9 +26,7 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
 
 ---
 
-### 📊 GitHub Dynamic Activity
-
-### 📊 GitHub Dynamic Activity
+### 📊 GitHub Activity
 
 <p align="left">
   <!-- Metrics: This combines your Stats + Languages into one reliable image -->
