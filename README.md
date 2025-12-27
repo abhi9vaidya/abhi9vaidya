@@ -26,10 +26,13 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Dynamic Activity
 <p align="left">
-  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html,css&languages.colors=github&languages.limit=8" alt="Metrics" width="400" />
-</p>
+  <!-- Real-time Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9vaidya&theme=tokyonight" alt="GitHub Streak" height="170" />
+  
+  <!-- Dynamic Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night" alt="Activity Graph" height="17
 
 ---
 
