@@ -35,5 +35,10 @@ and a few were built at 2am and will never see daylight again.
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9vaidya&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhi9vaidya&theme=tokyonight" />
 </p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhi9vaidya&theme=tokyonight" />
+</p>
+
