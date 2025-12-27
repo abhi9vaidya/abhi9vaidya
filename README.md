@@ -32,7 +32,7 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi9vaidya&theme=tokyonight" alt="GitHub Streak" height="170" />
   
   <!-- Dynamic Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night" alt="Activity Graph" height="17
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night" alt="Activity Graph" height="170" />
 
 ---
 
