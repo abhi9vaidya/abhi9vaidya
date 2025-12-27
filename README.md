@@ -1,10 +1,11 @@
 # Hi, I'm Abhinav 👋
 
-I build modern MERN applications with a focus on speed, clean UI, and solid engineering. I enjoy turning ideas into polished, functional interfaces and exploring better frontend and backend patterns.
+I build fast, modern MERN applications with clean UI and reliable engineering.  
+I enjoy turning ideas into production-ready experiences and exploring better frontend and backend patterns.
 
 ---
 
-### 🛠️ My Daily Tools
+### 🛠️ Tech I Work With
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -15,45 +16,46 @@ I build modern MERN applications with a focus on speed, clean UI, and solid engi
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
 
-*   **Currently Learning:** Scalable backend systems and real-time features.
+**Currently learning:** scalable backend systems, real-time features (WebSockets), and performance tuning.
 
 ---
 
-### 🚀 About My Work
-I’ve pinned the projects I’m proud of — the rest are hiding in private repos, waiting for a future version of me to refactor them.
+### 🚀 What I Build
+I like solving practical problems and iterating until things feel polished.
 
-Some of my apps are clean, some experimental, and a few were built at 2am and will never see daylight again.
+- 🔐 Auth-driven apps with sessions, JWT, and secure flows  
+- 💬 Real-time chat and collaborative features  
+- 📦 REST APIs with clean architecture and modular design  
+- ⚡ Fast UI with reusable components and optimized bundles  
+
+Some repos are public, some are experiments, and some are waiting for refactors before they return to daylight.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 Activity & Insights
 
 <p align="left">
-  <!-- Stats Card: Using a different stable provider for Commits, Stars, and PRs -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9vaidya&theme=tokyonight" alt="Stats Card" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9vaidya&theme=tokyonight" width="100%" />
 </p>
 
 <p align="left">
-  <!-- Languages: This is the part that is already working for you -->
-  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base=0&languages=1&languages.limit=8&theme=tokyonight" alt="Languages" width="100%" />
+  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base=0&languages=1&languages.limit=8&theme=tokyonight" width="100%" />
 </p>
 
 <p align="left">
-  <!-- Activity Graph: This is also working perfectly -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true" width="100%" />
 </p>
 
 ---
 
-### ⚡ Fun Facts
-*   🎸 I pick up my guitar whenever code stops making sense.
-*   🛠️ I build random things just to see if they *can* exist.
-*   ✨ I sometimes rewrite components that already work... because they could "look cleaner."
-*   **Hobbies:** Building stuff, guitar, and exploring new tech rabbit holes.
+### ⚡ Outside of Code
+- I pick up the guitar when problems stop making sense.  
+- I build random tools just to see whether they *should* exist.  
+- I refactor working code… because clean code matters.
 
 ---
 
-### 📫 Connect with me
+### 📫 Connect
 <p align="left">
   <a href="https://linkedin.com/in/abhi9vaidya15" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -63,4 +65,4 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
   </a>
 </p>
 
-*Open to interesting projects and collaborations!*
+_Open to interesting projects, collaborations._
