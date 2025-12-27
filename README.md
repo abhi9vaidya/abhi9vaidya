@@ -28,8 +28,7 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
 
 ### 📊 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=abhi9vaidya&show_icons=true&theme=radical" alt="Abhinav's GitHub Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9vaidya&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.ignored=html,css&languages.colors=github&languages.limit=8" alt="Metrics" width="400" />
 </p>
 
 ---
