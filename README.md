@@ -26,15 +26,20 @@ Some of my apps are clean, some experimental, and a few were built at 2am and wi
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Dynamic Activity
 
 <p align="left">
-  <!-- Metrics: This combines your Stats + Languages into one reliable image -->
-  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base=header,repositories,metadata&languages=1&languages.limit=8&theme=tokyonight" alt="Metrics" width="100%" />
+  <!-- Stats Card: Using a different stable provider for Commits, Stars, and PRs -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9vaidya&theme=tokyonight" alt="Stats Card" width="100%" />
 </p>
 
 <p align="left">
-  <!-- Activity Graph: This is working perfectly for you -->
+  <!-- Languages: This is the part that is already working for you -->
+  <img src="https://metrics.lecoq.io/abhi9vaidya?template=classic&base=0&languages=1&languages.limit=8&theme=tokyonight" alt="Languages" width="100%" />
+</p>
+
+<p align="left">
+  <!-- Activity Graph: This is also working perfectly -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true" alt="Activity Graph" width="100%" />
 </p>
 
