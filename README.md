@@ -8,7 +8,7 @@ Currently learning more about **scalable backend systems** and **real-time featu
 
 ---
 
-I’ve pinned the projects I’m proud of — the rest are hiding in private repos,  
+I’ve pinned the projects I’m proud of... the rest are hiding in private repos,  
 waiting for a future version of me to refactor them.
 
 Some of my apps are clean, some experimental,  
