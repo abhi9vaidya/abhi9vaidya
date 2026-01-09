@@ -24,7 +24,7 @@ and a few were built at 2am and will never see daylight again.
 
 ---
 
-### 📊 GitHub at a glance
+### 📊 GitHub at a glance :)
 
 <p align="left">
   <img
