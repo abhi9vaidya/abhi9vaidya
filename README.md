@@ -33,6 +33,8 @@ and a few were built at 2am and will never see daylight again.
   />
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=abhi9vaidya&color=blue)
+
 <p align="left">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true"
