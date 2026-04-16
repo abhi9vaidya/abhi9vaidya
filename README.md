@@ -24,22 +24,24 @@ and a few were built at 2am and will never see daylight again.
 
 ---
 
-### 📊 GitHub at a glance :))
-
-<p align="left">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhi9vaidya&theme=tokyonight"
-    width="99%"
-  />
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=abhi9vaidya&color=blue)
 
-<p align="left">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night&area=true"
-    width="99%"
-  />
-</p>
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi9vaidya&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=abhi9vaidya&theme=tokyonight)
+
+## 📈 Activity
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhi9vaidya&theme=tokyo-night)
+
+## 🧠 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9vaidya&layout=compact&theme=tokyonight)
+
+## 🏆 Achievements
+![Trophy](https://github-profile-trophy.vercel.app/?username=abhi9vaidya&theme=onedark)
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi9vaidya&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9vaidya&layout=compact)
 
 
